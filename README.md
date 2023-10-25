@@ -1,6 +1,6 @@
 # sp2-coursework
-Alvaro Leandro DE VASCONCELOS
-12839264
+Student name: Alvaro Leandro DE VASCONCELOS
+Studend id: 12839264
 
 
 Academic Declaration: 
